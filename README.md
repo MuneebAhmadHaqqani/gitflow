@@ -6,3 +6,12 @@ demo on git flow
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
