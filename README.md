@@ -13,7 +13,7 @@ demo on git flow
 
 ~~The world is flat.~~
 
- [x] Write the press release
+- [x] Write the press release
 - [X] Update the website
 - [ ] Contact the media
 
